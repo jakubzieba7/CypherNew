@@ -1,6 +1,0 @@
-F:\repos\_AkademiaDotNET\Tydz8_cw2_SMSReportService\CypherNew\bin\Release\CypherNew.dll
-F:\repos\_AkademiaDotNET\Tydz8_cw2_SMSReportService\CypherNew\bin\Release\CypherNew.pdb
-F:\repos\_AkademiaDotNET\Tydz8_cw2_SMSReportService\CypherNew\obj\Release\CypherNew.csproj.AssemblyReference.cache
-F:\repos\_AkademiaDotNET\Tydz8_cw2_SMSReportService\CypherNew\obj\Release\CypherNew.csproj.CoreCompileInputs.cache
-F:\repos\_AkademiaDotNET\Tydz8_cw2_SMSReportService\CypherNew\obj\Release\CypherNew.dll
-F:\repos\_AkademiaDotNET\Tydz8_cw2_SMSReportService\CypherNew\obj\Release\CypherNew.pdb
